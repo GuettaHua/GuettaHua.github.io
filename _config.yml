@@ -14,9 +14,9 @@ author-img:  # add your photo
 about-author: I am Guetta. This is my blog. # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
-github: GuettaHua # add your Github handle
+github: https://github.com/GuettaHua # add your Github handle
 linkedin: # add your Linkedin handle
-email: # add your Email address
+email: guettawah@aliyun.com# add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
